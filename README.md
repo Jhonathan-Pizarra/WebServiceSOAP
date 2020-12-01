@@ -7,5 +7,5 @@ Consumo de un servicio web con SOAP en una aplicación de escritorio y una aplic
 
 Asignatura: Aplicaciones Distribuidas\
 Facultad: ESFOT\
-2020-A
+2020-A\
 *(Prueba #1 del segundo bimestre)*
